@@ -1,21 +1,21 @@
-.place__paragraph {
+.places__paragraph {
   font-size: 18px;
   line-height: 163%;
   margin: 0  0 26px 0;
 }
 
-.place__paragraph:last-of-type {
+.places__paragraph:last-of-type {
   margin: 0;
 }
 
 @media (max-width: 768px) {
-  .place__paragraph {
+  .places__paragraph {
     font-size: 16px;
   }
 }
 
 @media (max-width: 650px) {
-  .place__paragraph {
+  .places__paragraph {
     padding: 0 16px; 
   }
 }

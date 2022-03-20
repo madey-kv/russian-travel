@@ -1,4 +1,4 @@
-.place__link {
+.places__link {
   font-size: 18px;
   line-height: 22px;
   text-decoration-line: underline;
@@ -6,6 +6,6 @@
   transition: opacity 0.4s ease-in-out;
 }
 
-.place__link:hover {
+.places__link:hover {
   opacity: .8;
 }
