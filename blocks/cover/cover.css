@@ -1,0 +1,18 @@
+.cover {
+  margin: 92px 48px 0 48px;
+  display: grid;
+  justify-items: center;
+  align-items: center;
+}
+
+@media (max-width: 1024px) {
+  .cover {
+    margin: 92px 0 0 0;
+  }
+} 
+
+@media (max-width: 440px) {
+  .cover {
+    margin: 66px 0 0 0;
+  }
+}
