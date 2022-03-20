@@ -1,8 +1,5 @@
 .cover {
   margin: 92px 48px 0 48px;
-  display: grid;
-  justify-items: center;
-  align-items: center;
 }
 
 @media (max-width: 1024px) {
